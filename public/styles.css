@@ -1,0 +1,24 @@
+/*estilos estilosos*/
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #4a90e2;
+}
+
+h2 {
+    color: #5cb85c;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+hr {
+    border-top: 2px solid #4a90e2;
+}
